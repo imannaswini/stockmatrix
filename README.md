@@ -30,13 +30,11 @@ The primary goal of this assessment is to demonstrate proficiency in full-stack 
 
 | Dashboard View | Add Product Modal |
 | :---: | :---: |
-| * `!<img width="1920" height="1080" alt="Dasboard" src="https://github.com/user-attachments/assets/fb292753-6d28-4cf3-8589-9909fdac2e30" />
-`)* `<img width="1920" height="1080" alt="AddProduct" src="https://github.com/user-attachments/assets/002844bc-ffc9-49d7-b039-859f8bb37e81" />
+| <img alt="Dashboard" src="https://github.com/user-attachments/assets/fb292753-6d28-4cf3-8589-9909fdac2e30" /> | <img alt="AddProduct" src="https://github.com/user-attachments/assets/002844bc-ffc9-49d7-b039-859f8bb37e81" /> |
 
-|  Low Stock Alerts |
-|* `<img width="1920" height="1080" alt="Screenshot (737)" src="https://github.com/user-attachments/assets/80c27eca-0ebe-43a2-9b32-551e95c6de95" />
-
-`)* |
+| Low Stock Alerts |
+| :---: |
+| <img alt="Low Stock Alerts" src="https://github.com/user-attachments/assets/80c27eca-0ebe-43a2-9b32-551e95c6de95" /> |
 
 ---
 
