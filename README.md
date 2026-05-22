@@ -30,11 +30,13 @@ The primary goal of this assessment is to demonstrate proficiency in full-stack 
 
 | Dashboard View | Add Product Modal |
 | :---: | :---: |
-| *(Replace with your screenshot: `![Dashboard](./screenshots/dashboard.png)`)* | *(Replace with your screenshot: `![Add Product](./screenshots/add-product.png)`)* |
+| *(Replace with your screenshot: `!<img width="1920" height="1080" alt="Dasboard" src="https://github.com/user-attachments/assets/fb292753-6d28-4cf3-8589-9909fdac2e30" />
+`)* | *(Replace with your screenshot: `<img width="1920" height="1080" alt="AddProduct" src="https://github.com/user-attachments/assets/002844bc-ffc9-49d7-b039-859f8bb37e81" />
 
-| Product List | Low Stock Alerts |
-| :---: | :---: |
-| *(Replace with your screenshot: `![Product List](./screenshots/products.png)`)* | *(Replace with your screenshot: `![Low Stock](./screenshots/low-stock.png)`)* |
+|  Low Stock Alerts |
+| |
+|*(Replace with your screenshot: `!<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/936fd088-24aa-4d50-8656-bea4beae723d" />
+`)* |
 
 ---
 
